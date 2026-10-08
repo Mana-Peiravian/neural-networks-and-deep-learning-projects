@@ -1,0 +1,12 @@
+metric,value
+test_size,420.0
+graph_to_sequence_top1,0.8190476298332214
+graph_to_sequence_top5,0.9904761910438538
+sequence_to_graph_top1,0.7904762029647827
+sequence_to_graph_top5,0.9809523820877075
+random_top1,0.002380952380952381
+random_top5,0.011904761904761904
+matching_cosine_mean,0.8922218084335327
+matching_cosine_std,0.05103697627782822
+nonmatching_cosine_mean,0.012943558394908905
+nonmatching_cosine_std,0.33593758940696716

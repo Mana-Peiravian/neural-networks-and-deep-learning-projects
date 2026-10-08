@@ -1,0 +1,23 @@
+{
+  "allowed_elements": [
+    "B",
+    "Br",
+    "C",
+    "Cl",
+    "F",
+    "I",
+    "N",
+    "O",
+    "P",
+    "S",
+    "Se",
+    "Si"
+  ],
+  "heavy_atom_count_percentile_1": 11.0,
+  "heavy_atom_count_percentile_99": 43.0,
+  "molecular_weight_percentile_1": 148.18876,
+  "molecular_weight_percentile_99": 616.7506400000002,
+  "maximum_absolute_molecular_formal_charge": 1,
+  "percentile_interpolation": "NumPy default linear method",
+  "training_molecule_count": 3355
+}

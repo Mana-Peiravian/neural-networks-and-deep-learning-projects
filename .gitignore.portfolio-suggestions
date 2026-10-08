@@ -1,0 +1,17 @@
+# Suggestions only; this file is not an active Git ignore configuration.
+# Resolve publication review before choosing exclusions.
+# Assignment PDFs contain access credentials; reports contain identifiers.
+# /1/NNDL_Pr1_2026.pdf
+# /2/NNDL-Prj2-2026.pdf
+# /3/NNDL-Prj3-2026.pdf
+# /4/NNDL-Prj4-2026.pdf
+# /1/HW#1 - Report.pdf
+# /2/HW#2-Report.pdf
+# /3/report.pdf
+# /4/report.pdf
+# Optional generated binaries (retain if needed for reproducibility):
+# /3/code/checkpoints/
+# /4/code/data/lipo/processed/
+# Dataset licensing review:
+# /4/code/data/lipo/raw/Lipophilicity.csv
+# /2/tiny-shakespeare.txt

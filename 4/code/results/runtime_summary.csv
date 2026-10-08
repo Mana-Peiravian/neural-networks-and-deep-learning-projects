@@ -1,0 +1,10 @@
+phase,seconds,included_in_experiment_total,note
+package_installation,,False,Not timed inside notebook; dependencies are installed before execution.
+dataset_download_and_load,0.08547019999241456,False,Raw file preexisted=True; excluded by assignment.
+dataset_preparation,8.10026450001169,True,Cleaning through paired loaders.
+language_model_warmup,522.8845170999994,True,15 epochs.
+joint_training,1565.5097495000227,True,40 epochs executed.
+retrieval_evaluation,0.5917455000453629,True,"Best checkpoint, complete test set."
+generation,12.841510099999141,True,900 total attempts.
+validation,0.3726720999693498,True,Strict staged RDKit pipeline.
+total_excluding_installation_and_download,2110.3004588000476,True,Sum of required experiment phases.

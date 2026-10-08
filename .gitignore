@@ -1,0 +1,17 @@
+# Local Python/Jupyter artifacts. Preserve original data, code, reports and models.
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+# Existing datasets and .pt files are deliberately not blanket-ignored.

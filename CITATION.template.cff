@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Complete and review this template before using it as CITATION.cff."
+title: "Neural Networks and Deep Learning coursework portfolio"
+authors:
+  - family-names: "Peiravian"
+    given-names: "Mana"
+repository-code: "https://github.com/Mana-Peiravian/neural-networks-and-deep-learning-projects"
+version: "REPLACE_WITH_RELEASE_VERSION"
+date-released: "REPLACE_WITH_YYYY-MM-DD"
+# Course material year 2026 is verified; repository release date is not.
